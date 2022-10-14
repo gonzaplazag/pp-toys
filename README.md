@@ -3,7 +3,7 @@
 Sample project in python from differents sources:
 
 * 01-write_funny_names: ref-1 CH.1. (OK)
-* 02-find_palyndromes: ref-1 CH.2. (IN PROGRESSa)
+* 02-find_palyndromes: ref-1 CH.2. (IN PROGRESS) (run pylint on palindromes, continue at page 25.)
 
 ## References
 
