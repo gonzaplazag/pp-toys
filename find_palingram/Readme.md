@@ -18,3 +18,5 @@ https://inventwithpython.com/dictionary.txt
     if word sliced forward is the same as word sliced backward:
         Append to the palindrome list
 - Print palindrome list.
+
+
